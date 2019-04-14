@@ -9,6 +9,11 @@ Create git repo and pushed.
 In trying to understanding the architecture of the LSTM network (Book: Deep Learning, page 413) I am struggling to fully
 understanding the meaning of the i and j indexing in the provided equations (10.33, 10.34, 10.35, 10.36, 10.37).
 
+alfu: i just went through the equations you mentioned in the DL book (https://www.deeplearningbook.org/contents/rnn.html) and didnt
+see any variable ì`and `j` in those equations. what i see are superscripts ranging from 1 to some number `tau` (the t-ish symbol). I should admit that this
+book is not the easiest book out there to learn deep learning. Giving that you had no machine/deep learning lectures, you should first
+spend a lot of time reading Part 1 of the book. Otherwise it will be very confusing for you
+
 i index seems to define the layer in the network..
 
 Screenshots of the book (Deep Learning - Goodfellow, I) page is provided in the repo dir /screenshots.
